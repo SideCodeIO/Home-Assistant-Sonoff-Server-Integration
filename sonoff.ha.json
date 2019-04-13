@@ -1,0 +1,26 @@
+[
+
+
+    {
+        "name": "Kitchen Bottom Leds",
+        "service": "Lightbulb",
+        "type": "",
+        "outlet": 0,
+        "state": false,
+        "device": "10001956a5-0",
+        "uid": "10001956a5-0",
+        "intID": 1
+    },
+
+    {
+        "name": "Kitchen Top Leds",
+        "service": "Lightbulb",
+        "type": "",
+        "outlet": 0,
+        "state": false,
+        "device": "10001956a5-1",
+        "uid": "10001956a5-1",
+        "intID": 2
+    }
+
+]
