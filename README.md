@@ -41,9 +41,11 @@ host - is sonoff_server ip (localhost or under docker/diffrent device than the i
 port - is your sonof server http port.
 
 
-- Add to your sonoff.ha.json file all of your sonoff devices with their device_id. In my case it was a sonoff dual, each channel is a "device", with device_id-0 or device_id-1
+- Add to your sonoff.ha.json file all of your sonoff devices with their device_id. 
+  In my case it was a sonoff dual, each channel is a "device", with device_id-0 or device_id-1
 
-you can check your device ids via sonof_server SERVER_IP:SERVER_HTTP_PORT/devices route. In my case it was: http://192.168.1.11:8088/devices
+ - you can check your device ids via sonof_server SERVER_IP:SERVER_HTTP_PORT/devices route. 
+   In my case it was: http://192.168.1.11:8088/devices
 
 - Restart Hass.
 
